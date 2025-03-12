@@ -2,7 +2,7 @@
 
 В данном репозитории представлен перечень материалов по предметам **"Искуственные нейронные сети"** и **"Методы глубокого обучения в задачах обработки пространственных данных"** для студентов групп **ФГиИБ-2020-ФГиИБ-ПИ-1б**, **ФГиИБ-2023-ФГиИБ-ПИабпд-1м**.
 
-[Статистика выполнения работ **ФГиИБ-2020-ФГиИБ-ПИ-1б**](https://docs.google.com/spreadsheets/d/1GVM9UgNMpQ-T8XjXL2JvltYI6sRhBzRKwDNIsurOz2c/edit#gid=270406978)
+[Статистика выполнения работ **ФГиИБ-2021-ФГиИБ-ПИ-1б**](https://docs.google.com/spreadsheets/d/1qBpsYWvl8fqvgz_q6rkKpieOft9jWfLP23xNwgXzmXQ/edit?usp=sharing)
 
 [Статистика выполнения работ **ФГиИБ-2023-ФГиИБ-ПИабпд-1м**](https://docs.google.com/spreadsheets/d/1WRJnxZSJh88zuMht73nq2yUTefZHyAh2ehw-FnQSAAQ/edit#gid=1533910966)
 
