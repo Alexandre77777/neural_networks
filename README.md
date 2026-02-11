@@ -23,4 +23,4 @@
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd210MjBvdW80OXZlMTIyZTV1YmtvNWxtb3NxZmc3amYxZW5rM3c3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7HAm2aWDviqeQ/giphy.gif" width="125"/>
 </div> -->
 
-###### Адрес электронной почты преподавателя: a_streltsov@edu.miigaik.ru
+###### Адрес электронной почты преподавателя: streltsovas@miigaik.ru
