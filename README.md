@@ -17,7 +17,7 @@
 |     |            | [Электронные таблицы с примерами обучения ИНС дельта-методом](https://docs.google.com/spreadsheets/d/1uAS6KdOTw5bGm3OSYiD4z0WhcJz-t37ZYCj8VTyVsrU/edit?gid=588898032#gid=588898032)  | |
 |     |12.02.2026-28.02.2026| [Теория №2. Обучение ИНС, используя библиотеку Keras в задачах регрессии и классификации](https://u.to/aD3iIQ)  | [Практическая работа №2. Использование глубоких нейронных сетей для решения задач регрессии и классификации](https://colab.research.google.com/drive/1ukuIfEVZ5RkmVyTueFNhm52hkUg16QZa?usp=sharing)|
 |     |            | [Основные понятия (БАЗА)](https://colab.research.google.com/drive/1ZQplq1aLCyiCofTsFObmz6e8VSn1ahx-?usp=sharing)  | |
-|     |28.02.2026-11.02.2026| [Теория №3. Расширение возможностей при обучении и взаимодействии с моделью: колбэки и Gradio](https://colab.research.google.com/drive/1yM47dvyMqSBaMSVIdJvDutq_waWW0V61?usp=sharing)  | |
+|     |28.02.2026-11.03.2026| [Теория №3. Расширение возможностей при обучении и взаимодействии с моделью: колбэки и Gradio](https://colab.research.google.com/drive/1yM47dvyMqSBaMSVIdJvDutq_waWW0V61?usp=sharing)  | |
 
 
 
