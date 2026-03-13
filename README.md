@@ -19,6 +19,10 @@
 |     |            | [Основные понятия (БАЗА)](https://colab.research.google.com/drive/1ZQplq1aLCyiCofTsFObmz6e8VSn1ahx-?usp=sharing)  | |
 |     |28.02.2026-04.03.2026| [Теория №2.1. Расширение возможностей при обучении и взаимодействии с моделью: колбэки и Gradio](https://colab.research.google.com/drive/1yM47dvyMqSBaMSVIdJvDutq_waWW0V61?usp=sharing)  | |
 | | 04.03.2026-11.03.2026 | [Теория №3. Сверточные нейронные сети (CNN)](https://colab.research.google.com/drive/1PUvx9rGgAYSb2dZfGbzjfqRK86CLzsko?usp=sharing) | 1. Изучить конспект в п. 1 Теории №3<br>2. Интегрировать Callback-функции в текущую и последующие работы (см. пример в Теории №2.1)<br>3. Изучить п. 4 Теории №3 (особое внимание обратите на создание веб-интерфейса в Streamlit)<br>4. Выполнить [Практическую работу №3](https://colab.research.google.com/drive/1fLKjdQsvrAldS3iIT9KFswU-d6kAK8_C?usp=sharing) |
+|     |            | [Визуализация слоёв полносвязных и сверточных ИНС](https://colab.research.google.com/drive/1PH2kElB3ViUCgReJnQaygsBRMx4sXvrl?usp=sharing)  | |
+| | 11.03.2026-18.03.2026 | [Теория №4. Регуляризация. BatchNormalization и Dropout](https://colab.research.google.com/drive/1jQn5GLS7c-UDVqyTCX4N8I0XEVIWbDaB?usp=sharing) | 1. Внимательно изучить конспект: [Градиентный спуск](https://colab.research.google.com/drive/10U5QZVqgIAP46bdj8wu_PuI0J1jugxiC?usp=sharing)<br>2. Разобрать материал, рассматриваемый на паре: [Теория №4](https://colab.research.google.com/drive/1jQn5GLS7c-UDVqyTCX4N8I0XEVIWbDaB?usp=sharing)<br>3. Выполнить [Практическую работу №4](https://colab.research.google.com/drive/1xOXzXGPK07bf37INmCjQEfN-qYSAnCbL?usp=sharing) |
+|     |            | [Дополнительно: Градиентный спуск](https://colab.research.google.com/drive/10U5QZVqgIAP46bdj8wu_PuI0J1jugxiC?usp=sharing)  | |
+
 
 
 
