@@ -23,6 +23,7 @@
 | | 11.03.2026-18.03.2026 | [**Теория №4. Регуляризация. BatchNormalization и Dropout**](https://colab.research.google.com/drive/1jQn5GLS7c-UDVqyTCX4N8I0XEVIWbDaB?usp=sharing) | 1. Внимательно изучить конспект: [Градиентный спуск](https://colab.research.google.com/drive/10U5QZVqgIAP46bdj8wu_PuI0J1jugxiC?usp=sharing)<br>2. Разобрать материал, рассматриваемый на паре: [Теория №4](https://colab.research.google.com/drive/1jQn5GLS7c-UDVqyTCX4N8I0XEVIWbDaB?usp=sharing)<br>3. Выполнить [Практическую работу №4](https://colab.research.google.com/drive/1xOXzXGPK07bf37INmCjQEfN-qYSAnCbL?usp=sharing) |
 |     |            | [Дополнительно: Градиентный спуск](https://colab.research.google.com/drive/10U5QZVqgIAP46bdj8wu_PuI0J1jugxiC?usp=sharing)  | |
 | | 18.03.2026-25.03.2026 | [**Теория №5. Архитектуры свёрточных нейросетей и Transfer Learning**](https://colab.research.google.com/drive/1AOAlbgdnPcr94qJFyMumVpnVezuDnocy?usp=sharing) | [Практическая работа №5. Архитектуры свёрточных нейросетей и Transfer Learning](https://colab.research.google.com/drive/1c5HICW8l6iguGB2usvsk5w3exFhFzML7?usp=sharing) |
+| | 25.03.2026-01.04.2026 | [**Теория №6. Автоэнкодер**](https://colab.research.google.com/drive/15zlzAvkUMUDW3aDn0Wr4SLTgNXYn68j_?usp=sharing) | [Практическая работа №6. Проектирование автоэнкодеров для решения прикладных задач](https://colab.research.google.com/drive/1ggwvEO3NRZs8z6zsAMoKwKIiwsq41R5D?usp=sharing) |
 
 
 
