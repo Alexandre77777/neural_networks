@@ -28,6 +28,8 @@
 |     |                       | [**Использование автоэнкодера для решения задач семантической сегментации: современный пайплайн на tf.data (патчи на лету)**](https://colab.research.google.com/drive/1hyK_nN_o1FhySZrxjII0Jm3g-6HvsdZv?usp=sharing) |[Практическая работа №7. Использование автоэнкодера U-Net для решения задач семантической сегментации]( https://colab.research.google.com/drive/1E2q6bxEJkGk3QJULWsWtwTycrWD0xr0M?usp=sharing) |
 |     |                       | [**Дополнительно: квантование и оптимизация моделей**](https://colab.research.google.com/drive/1hyK_nN_o1FhySZrxjII0Jm3g-6HvsdZv#scrollTo=wWSrNOR4eCG3) | |
 | | 08.04.2026-15.04.2026 | [**Теория №8. Генеративно-состязательная сеть (GAN)**](https://colab.research.google.com/drive/1XPRDSL3-VSbHvNLSoHP_G2EufLPs_P64?usp=sharing) | [Практическая работа №8. Генеративно-состязательная сеть (GAN)](https://clck.ru/3T2NKQ) |
+| | 08.04.2026-15.04.2026 | [**Теория №9. Использование модели YOLO для решение задач детекции и классификации**](https://clck.ru/3T8Neo) | [Практическая работа №9. Использование модели YOLOv26 для решение задач детекции и классификации](https://clck.ru/3T8Ne8) |
+
 
 
 
